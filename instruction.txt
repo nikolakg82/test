@@ -1,0 +1,3 @@
+Copy files to root of the public_html directory.
+Create database and set database from the dump file database.sql located to root of the project.
+Config file to database connection is in this file /config/db.config.php.

@@ -1,0 +1,18 @@
+body{padding:0;margin:0;font:14px Verdana, "sans-serif";background:#f7f7f7;color:#333;}
+input{font:14px Verdana, "sans-serif"}
+h1{padding:0;margin:0;font:bold 22px Verdana, "sans-serif"}
+.SiteWidth{width:800px;margin:0 auto;}
+.Left{float:left;}
+.Right{float:right;}
+.Clear{clear:both;}
+.Header{background:#fff;padding:15px 0;}
+.Header .Welcome{text-align:right;padding-top:10px;font-size:16px;}
+.Footer{background:#fff;padding:10px 0;}
+.Message{padding:20px;border:1px solid #333;margin:5px 0;}
+.MainContent{padding:20px 0;}
+.Form{padding-top:25px;}
+.Form .Field{padding:5px 0 15px 0;}
+.Form .Field input{border:1px solid #e5e5e5;padding:10px 5px;width:300px;}
+.Form .Button input{background:#e34549;color:#fff;border:0;text-transform:uppercase;padding:10px 20px;cursor:pointer;}
+.SearchResult{background:#000;margin-top:10px;}
+.SearchResult td, .SearchResult th{background:#fff;}
